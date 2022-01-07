@@ -1,4 +1,10 @@
 h1, h2 {
+    display: flex;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+p {
+    text-decoration: solid grey;
 }
